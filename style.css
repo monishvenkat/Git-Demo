@@ -19,5 +19,7 @@ p{
     padding: 10px;
     color: black;
     background-color: white;
+    border: 10px solid black;
+    border-radius: 8px;
     
 }
