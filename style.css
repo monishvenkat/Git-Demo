@@ -17,9 +17,9 @@ p{
 #myButton{
     margin: 10px;
     padding: 10px;
-    color: black;
-    background-color: white;
-    border: 10px solid black;
+    color: white;
+    background-color: black;
+    border: 10px solid red;
     border-radius: 8px;
     
 }
